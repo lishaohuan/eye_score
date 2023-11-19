@@ -1,2 +1,8 @@
 # eye_score
-AI眼保健操
+
+## install
+anaconda
+
+mediapipe
+
+pygame
